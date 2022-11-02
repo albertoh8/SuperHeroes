@@ -1,4 +1,4 @@
-package com.albertoherjim.superheroes.data.superheroe
+package com.albertoherjim.superheroes.data.superheroe.remote
 
 import com.albertoherjim.superheroes.domain.SuperHeroe
 import com.albertoherjim.superheroes.domain.SuperHeroeRepository

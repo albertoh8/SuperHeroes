@@ -1,6 +1,7 @@
-package com.albertoherjim.superheroes.data.superheroe
+package com.albertoherjim.superheroes.data.superheroe.remote
 
 import com.albertoherjim.superheroes.data.ApiClient
+import com.albertoherjim.superheroes.data.superheroe.toDomain
 import com.albertoherjim.superheroes.domain.SuperHeroe
 
 class SuperHeroeRemoteDataSource(val apiClient: ApiClient) {
